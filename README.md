@@ -37,7 +37,7 @@ Parses the `.key` file and extracts FEA data.
 
 **Inputs:**  
 - Toyota Yaris `.key` file  
-- `shell.m` (helper function)
+- `shell_list.m` (helper function)
 
 **Outputs:**  
 - `elements.mat`  
